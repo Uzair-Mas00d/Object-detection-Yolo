@@ -1,0 +1,7 @@
+
+path: E:/Object Detection/OIDv4_ToolKit/OID/Dataset #absolute path
+train: images/train #relative path
+val: images/train #relative path
+
+names: #classes
+  0: alpaca
